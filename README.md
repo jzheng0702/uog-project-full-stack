@@ -1,6 +1,16 @@
-# W22_CIS3760_Team8 Sprint 9
+# Full Stack Web Development 
 
-In this sprint, we were tasked with visually highlighting the impacts of dropping a course. When we click on that dropped course, related courses will change to the color red that people can not take it. We also add two new features, which are suggestive text when doing a search, and changing the theme to dark mode.
+Technology Stack: Next JS, React front-end, Next back-end, Material UI, React Flow, Axios, Playwright JS
+
+• Developed website for University of Guelph and UBC allowing users to search courses and tabulate degree
+prerequisites
+
+• Utilized JavaScript to develop front-end and back-end code; collaborated with team using GitLab
+
+• Applied Playwright JS to scrape course information and saved data into JSON file
+
+• Incorporated light/dark mode for pages and UX components to load animations; developed 30-minute
+interval automated testing and email error reports
 
 To retrieve all updated developed code from git using the VM
 ```console
